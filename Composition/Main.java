@@ -15,5 +15,7 @@ public class Main {
     // thePC.getMonitor().drawPixelAt(1500, 1500, "red");
     // thePC.getMotherboard().loadProgram("Windows 1.0");
     // thePC.getTheCase().pressPowerButton();
+
+    Home theHome = new Home("blue", new Couch(4, "Swede", new Cushions("swede", "green")), new Table(4, "oak"));
   }
 }
