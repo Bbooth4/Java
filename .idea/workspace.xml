@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="931f0d9c-a668-493c-bc7b-4858f68c22bf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Encapsulation/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Encapsulation/Player.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Composition/Home.class" afterPath="$PROJECT_DIR$/Composition/Home.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Composition/Main.class" afterPath="$PROJECT_DIR$/Composition/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Home.class" afterPath="$PROJECT_DIR$/Home.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IfMethod" afterPath="$PROJECT_DIR$/IfMethod" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main.class" afterPath="$PROJECT_DIR$/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Composition/Home.java" afterPath="$PROJECT_DIR$/Composition/Home.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Composition/Main.java" afterPath="$PROJECT_DIR$/Composition/Main.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,38 +17,19 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Encapsulation/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="560">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EnhancedPlayer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Encapsulation/EnhancedPlayer.java">
+      <file leaf-file-name="Printer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Encapsulation/Printer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-              <folding>
-                <element signature="e#514#515#0" expanded="true" />
-                <element signature="e#542#543#0" expanded="true" />
-                <element signature="e#625#626#0" expanded="true" />
-                <element signature="e#648#649#0" expanded="true" />
-                <element signature="e#679#680#0" expanded="true" />
-                <element signature="e#702#703#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Encapsulation/Player.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-              <folding>
-                <element signature="e#314#315#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="5" column="56" lean-forward="false" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,6 +64,7 @@
         <option value="$PROJECT_DIR$/Encapsulation/Player.java" />
         <option value="$PROJECT_DIR$/Encapsulation/Main.java" />
         <option value="$PROJECT_DIR$/Encapsulation/EnhancedPlayer.java" />
+        <option value="$PROJECT_DIR$/Encapsulation/Printer.java" />
       </list>
     </option>
   </component>
@@ -587,12 +560,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1497892369076</updated>
-      <workItem from="1497980581357" duration="6741000" />
+      <workItem from="1497980581357" duration="7451000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6741000" />
+    <option name="totallyTimeSpent" value="7451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="683" y="24" width="681" height="689" extended-state="0" />
@@ -870,18 +843,10 @@
     <entry file="file://$PROJECT_DIR$/Encapsulation/Player.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
           <folding>
-            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Encapsulation/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -892,11 +857,29 @@
           <folding>
             <element signature="e#514#515#0" expanded="true" />
             <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Encapsulation/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Encapsulation/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="56" lean-forward="false" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+          <folding />
         </state>
       </provider>
     </entry>
