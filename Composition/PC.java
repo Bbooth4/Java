@@ -3,21 +3,30 @@ public class PC {
   private Monitor monitor;
   private Motherboard motherboard;
 
-  public PC(Monitor monitor, Motherboard motherboard) {
-    this.thecase = theCase;
+  public PC(Case theCase, Monitor monitor, Motherboard motherboard) {
+    this.theCase = theCase;
     this.monitor = monitor;
     this.motherboard = motherboard;
   }
 
-  public Case getTheCase() {
+  public void powerUp() {
+    getTheCase().pressPowerButton();
+    drawLogo();
+  }
+
+  private void drawLogo() {
+    getMonitor().drawPixelAt(1200, 50, "yellow");
+  }
+
+  private Case getTheCase() {
     return theCase;
   }
 
-  public Monitor getMonitor() {
+  private Monitor getMonitor() {
     return monitor;
   }
 
-  public Motherboard getMotherboard() {
+  private Motherboard getMotherboard() {
     return motherboard;
   }
 }
