@@ -17,5 +17,7 @@ public class Main {
     // thePC.getTheCase().pressPowerButton();
 
     Home theHome = new Home("blue", new Couch(4, "Swede", new Cushions("swede", "green")), new Table(4, "oak"));
+
+    theHome.talk();
   }
 }

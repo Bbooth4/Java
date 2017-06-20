@@ -9,9 +9,9 @@ public class Home {
     this.theTable = theTable;
   }
 
-  // public void talk() {
-  //   speak();
-  // }
+  public void talk() {
+    speak("Hello");
+  }
 
   private void speak(String speak) {
     System.out.println("The person said " + speak);
