@@ -21,10 +21,14 @@ public class Main {
     Printer printerTrue = new Printer(50, 0, true);
     Printer printerFalse = new Printer(50, 0, false);
 
+    printerTrue.getToner();
+    printerTrue.getPages();
     printerTrue.fillToner(7);
     printerTrue.fillToner(5);
     printerTrue.printPages(15);
 
+    printerFalse.getToner();
+    printerFalse.getPages();
     printerFalse.fillToner(12);
     printerFalse.printPages(20);
   }
