@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="931f0d9c-a668-493c-bc7b-4858f68c22bf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Car.class" afterPath="$PROJECT_DIR$/Car.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IfMethod" afterPath="$PROJECT_DIR$/IfMethod" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main.class" afterPath="$PROJECT_DIR$/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Polymorphism/Main.java" afterPath="$PROJECT_DIR$/Polymorphism/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Encapsulation/Printer.class" afterPath="$PROJECT_DIR$/Encapsulation/Printer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Printer.class" afterPath="$PROJECT_DIR$/Printer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Encapsulation/Main.class" afterPath="$PROJECT_DIR$/Encapsulation/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IfMethod" afterPath="$PROJECT_DIR$/IfMethod" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Encapsulation/Printer.java" afterPath="$PROJECT_DIR$/Encapsulation/Printer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Encapsulation/Main.java" afterPath="$PROJECT_DIR$/Encapsulation/Main.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,31 +17,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Polymorphism/Main.java">
+        <entry file="file://$PROJECT_DIR$/Polymorphism/PolyChallenge/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="68" column="42" lean-forward="false" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
+            <state relative-caret-position="398">
+              <caret line="84" column="4" lean-forward="true" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
               <folding>
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#272#273#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#539#540#0" expanded="true" />
-                <element signature="e#599#600#0" expanded="true" />
-                <element signature="e#629#630#0" expanded="true" />
-                <element signature="e#667#668#0" expanded="true" />
-                <element signature="e#708#709#0" expanded="true" />
-                <element signature="e#764#765#0" expanded="true" />
-                <element signature="e#792#793#0" expanded="true" />
-                <element signature="e#830#831#0" expanded="true" />
-                <element signature="e#862#863#0" expanded="true" />
-                <element signature="e#934#935#0" expanded="true" />
-                <element signature="e#970#971#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#660#661#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+                <element signature="e#711#712#0" expanded="true" />
+                <element signature="e#750#751#0" expanded="true" />
+                <element signature="e#780#781#0" expanded="true" />
+                <element signature="e#828#829#0" expanded="true" />
+                <element signature="e#852#853#0" expanded="true" />
+                <element signature="e#1155#1156#0" expanded="true" />
+                <element signature="e#1181#1182#0" expanded="true" />
+                <element signature="e#1243#1244#0" expanded="true" />
+                <element signature="e#1290#1291#0" expanded="true" />
+                <element signature="e#1336#1337#0" expanded="true" />
+                <element signature="e#1362#1363#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,6 +83,7 @@
         <option value="$PROJECT_DIR$/Encapsulation/EnhancedPlayer.java" />
         <option value="$PROJECT_DIR$/Encapsulation/Printer.java" />
         <option value="$PROJECT_DIR$/Polymorphism/Main.java" />
+        <option value="$PROJECT_DIR$/Polymorphism/PolyChallenge/Main.java" />
       </list>
     </option>
   </component>
@@ -96,10 +94,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="683" />
-    <option name="y" value="34" />
-    <option name="width" value="681" />
-    <option name="height" value="689" />
+    <option name="y" value="-4" />
+    <option name="width" value="1366" />
+    <option name="height" value="717" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -160,6 +157,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Polymorphism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Polymorphism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PolyChallenge" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -595,15 +610,16 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10158000" />
+    <option name="totallyTimeSpent" value="11468000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="34" width="681" height="689" extended-state="0" />
+    <frame x="0" y="-4" width="1366" height="717" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -615,7 +631,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25403818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12664714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -668,13 +684,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Inheritance/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Inheritance/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -1016,8 +1025,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Polymorphism/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="68" column="42" lean-forward="false" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
+        <state relative-caret-position="149">
+          <caret line="69" column="42" lean-forward="false" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
           <folding>
             <element signature="e#179#180#0" expanded="true" />
             <element signature="e#201#202#0" expanded="true" />
@@ -1027,18 +1036,42 @@
             <element signature="e#344#345#0" expanded="true" />
             <element signature="e#417#418#0" expanded="true" />
             <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#708#709#0" expanded="true" />
-            <element signature="e#764#765#0" expanded="true" />
-            <element signature="e#792#793#0" expanded="true" />
-            <element signature="e#830#831#0" expanded="true" />
-            <element signature="e#862#863#0" expanded="true" />
-            <element signature="e#934#935#0" expanded="true" />
-            <element signature="e#970#971#0" expanded="true" />
+            <marker date="1498590626278" expanded="true" signature="1346:1360" ph="{...}" />
+            <marker date="1498590626278" expanded="true" signature="1346:1811" ph="{...}" />
+            <marker date="1498590626278" expanded="true" signature="1398:1809" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Polymorphism/PolyChallenge/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="84" column="4" lean-forward="true" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
+          <folding>
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#828#829#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+            <element signature="e#1155#1156#0" expanded="true" />
+            <element signature="e#1181#1182#0" expanded="true" />
+            <element signature="e#1243#1244#0" expanded="true" />
+            <element signature="e#1290#1291#0" expanded="true" />
+            <element signature="e#1336#1337#0" expanded="true" />
+            <element signature="e#1362#1363#0" expanded="true" />
           </folding>
         </state>
       </provider>
