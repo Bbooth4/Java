@@ -16,8 +16,8 @@ public class Burgers {
   private String addition4Name;
   private double addition4Price;
 
-  public Burgers(String bread, String meat, double price) {
-    this.name = "Basic Burger";
+  public Burgers(String name, String bread, String meat, double price) {
+    this.name = name;
     this.bread = bread;
     this.meat = meat;
     this.price = price;
@@ -68,29 +68,29 @@ public class Burgers {
     return hamburgerPrice;
   }
 
-  public double additions(boolean lettuce, boolean tomato, boolean bacon, boolean cheese) {
-    double burgerTotal = this.price; 
-    boolean[] adds = {lettuce, tomato, bacon, cheese};
-    // adds.forEach((e) -> {
-    //   if (e == true) {
-    //     return this.price += 0.5;
-    //     System.out.println(this.price);
-    //   } else {
-    //     return this.price += 0;
-    //     System.out.println(this.price);
-    //   }
-    // });
+  // public double additions(boolean lettuce, boolean tomato, boolean bacon, boolean cheese) {
+  //   double burgerTotal = this.price; 
+  //   boolean[] adds = {lettuce, tomato, bacon, cheese};
+  //   // adds.forEach((e) -> {
+  //   //   if (e == true) {
+  //   //     return this.price += 0.5;
+  //   //     System.out.println(this.price);
+  //   //   } else {
+  //   //     return this.price += 0;
+  //   //     System.out.println(this.price);
+  //   //   }
+  //   // });
 
-    for(double i=1; i<=adds.length; i++) {
-       if (true) {
-        burgerTotal += 0.5;
-      } else {
-        burgerTotal += 0;
-      }
-    }
-    return burgerTotal;
-  }
+  //   for(int i=0; i<=adds.length; i++) {
+  //      if (i == true) {
+  //       burgerTotal += 0.5;
+  //     } else {
+  //       burgerTotal += 0;
+  //     }
+  //   }
+  //   return burgerTotal;
+  // }
 }
 
 // make a veggie burger that is always rye and can have an extra 2 toppings
-// make a deluxe burger that doesn't have extra toppings
+// make a deluxe burger that doesn't have extra toppings but has chips and a drink
