@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.ArrayList;
 
 public class Main {
   private static Scanner scanner = new Scanner(System.in);
@@ -33,7 +34,10 @@ public class Main {
         case 5:
           searchForItem();
           break;
-        case 6:
+        case 6: 
+          processArrayList();
+          break;
+        case 7:
           quit = true; 
           break;
       }
@@ -78,5 +82,17 @@ public class Main {
     } else {
       System.out.print(searchItem + " is not in the shopping list.");
     }
+  }
+
+  public static void processArrayList() {
+    ArrayList<String> newArray = new ArrayList<String>();
+    newArray.addAll(groceryList.getGroceryList());
+
+    ArrayList<String> nextArray = new ArrayList<String>(groceryList.getGroceryList());
+
+    String[] myArray = new String[groceryList.getGroceryList().size()];
+    myArray = groceryList.getGroceryList().toArray(myArray);
+
+    // both of these lines will copy an array list, the second one does it in one line but hte first one is more versatile because you can put a variable within it to choose what to copy 
   }
 }

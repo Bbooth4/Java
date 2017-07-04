@@ -4,6 +4,10 @@ public class GroceryList {
   private int[] numbers = new int[50];
   private ArrayList<String> groceryList = new ArrayList<String>();
   // can hold objects
+
+  public ArrayList<String> getGroceryList() {
+    return groceryList; 
+  }
   
   public void addItem(String item) {
     groceryList.add(item);

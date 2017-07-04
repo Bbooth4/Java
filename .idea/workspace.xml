@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="931f0d9c-a668-493c-bc7b-4858f68c22bf" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArrayChallenge/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArrayChallenge/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelloWorld/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/com/timbuchalka/Main.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroceryList.class" afterPath="$PROJECT_DIR$/GroceryList.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IfMethod" afterPath="$PROJECT_DIR$/IfMethod" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main.class" afterPath="$PROJECT_DIR$/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Polymorphism/PolyChallenge/Main.java" afterPath="$PROJECT_DIR$/Polymorphism/PolyChallenge/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lists/GroceryList.java" afterPath="$PROJECT_DIR$/Lists/GroceryList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lists/Main.java" afterPath="$PROJECT_DIR$/Lists/Main.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,17 +22,48 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Arrays/Main.java">
+      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Autoboxing-Unboxing/Challenge/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+            <state relative-caret-position="340">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
-                <marker date="1499112809973" expanded="true" signature="173:710" ph="{...}" />
-                <marker date="1499112809973" expanded="true" signature="758:964" ph="{...}" />
-                <marker date="1499112809973" expanded="true" signature="1013:1152" ph="{...}" />
-                <marker date="1499112809973" expanded="true" signature="1147:1152" ph="{...}" />
-                <marker date="1499112809973" expanded="true" signature="1199:1319" ph="{...}" />
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+                <element signature="e#442#443#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Branch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Autoboxing-Unboxing/Challenge/Branch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bank.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Autoboxing-Unboxing/Challenge/Bank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,6 +105,10 @@
         <option value="$PROJECT_DIR$/OOPTest/Main.java" />
         <option value="$PROJECT_DIR$/OOPTest/Burgers.java" />
         <option value="$PROJECT_DIR$/Arrays/Main.java" />
+        <option value="$PROJECT_DIR$/ArrayChallenge/ArrayListChallenge/Contacts.java" />
+        <option value="$PROJECT_DIR$/Autoboxing-Unboxing/Challenge/Bank.java" />
+        <option value="$PROJECT_DIR$/Autoboxing-Unboxing/Challenge/Branch.java" />
+        <option value="$PROJECT_DIR$/Autoboxing-Unboxing/Challenge/Customer.java" />
       </list>
     </option>
   </component>
@@ -140,7 +180,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Arrays" />
+              <option name="myItemId" value="Autoboxing-Unboxing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Autoboxing-Unboxing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Challenge" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -446,22 +504,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Composition/Main.class" />
-    <entry file="file://$PROJECT_DIR$/Composition/Monitor.class" />
-    <entry file="file://$PROJECT_DIR$/Composition/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="107" lean-forward="false" selection-start-line="18" selection-start-column="107" selection-end-line="18" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Composition/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Composition/Table.java" />
     <entry file="file://$PROJECT_DIR$/Composition/PC.java" />
     <entry file="file://$PROJECT_DIR$/Composition/Home.java" />
@@ -568,16 +610,65 @@
     <entry file="file://$PROJECT_DIR$/Encapsulation/Main.java" />
     <entry file="file://$PROJECT_DIR$/OOPTest/Burgers.java" />
     <entry file="file://$PROJECT_DIR$/OOPTest/Main.java" />
+    <entry file="file://$PROJECT_DIR$/ArrayChallenge/ArrayListChallenge/Contacts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Arrays/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        <state relative-caret-position="280">
+          <caret line="16" column="53" lean-forward="true" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
           <folding>
             <marker date="1499112809973" expanded="true" signature="173:710" ph="{...}" />
             <marker date="1499112809973" expanded="true" signature="758:964" ph="{...}" />
             <marker date="1499112809973" expanded="true" signature="1013:1152" ph="{...}" />
             <marker date="1499112809973" expanded="true" signature="1147:1152" ph="{...}" />
             <marker date="1499112809973" expanded="true" signature="1199:1319" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoboxing-Unboxing/Challenge/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoboxing-Unboxing/Challenge/Branch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoboxing-Unboxing/Challenge/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
           </folding>
         </state>
       </provider>
