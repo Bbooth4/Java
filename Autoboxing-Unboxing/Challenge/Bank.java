@@ -46,6 +46,20 @@ public class Bank {
       Branch branch = findbranch(branchName);
       if (branch != null) {
         System.out.println("Customer's details for branch " + branch.getName());
+
+        ArrayList<Customer> branchCustomers = branch.getCustomers();
+        for (int i=0; i<branchCustomers.size(); i++) {
+          Customer branchCustomer = branchCustomers.get(i);
+          if (showTransactions) {
+            ArrayList<Double> transactions = branchCustomer.getTransactions();
+            for (int j=0; j<transactions.size(); i++) {
+              System.out.println("[" + j+1 + "] Amount " + transactions.get(j)); 
+            }
+            return true; 
+          } else {
+            return false; 
+          }
+        }
       }
       return false; 
     }
